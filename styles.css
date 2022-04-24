@@ -1,0 +1,27 @@
+ body {
+     margin: 0px 150px 0px 20px ;
+ }
+ 
+  h1 {
+      font-size: 60px;
+  }
+  
+  .mars {
+      color: #d33d1f;
+  }
+  
+  .earth {
+      color: #2a8442;
+  }
+  
+  img {
+      height: 100px;
+  }
+  
+  ul{
+      list-style-type: none;
+  }
+  
+  ul li:before {
+  content: "-";
+}
